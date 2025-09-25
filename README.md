@@ -2,7 +2,7 @@
 
 This repository contains the Figma design files for our graduation project.
 
-## Poject name:
+## Porject name:
 Housing Hub
 
 ## Team Members:
