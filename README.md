@@ -5,7 +5,7 @@ This repository contains the Figma design files for our graduation project.
 ## Team Members:
 - Nada AbdelMoniem
 - Habiba Ayman
-- Sarah Madged
+- Sarah Maged
 - Hoda Hossameldeen
 - Sarah Ali
 - Sondos Ahmed   
