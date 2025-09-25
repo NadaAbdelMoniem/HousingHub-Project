@@ -2,6 +2,9 @@
 
 This repository contains the Figma design files for our graduation project.
 
+## Poject name:
+Housing Hub
+
 ## Team Members:
 - Nada AbdelMoniem
 - Habiba Ayman
